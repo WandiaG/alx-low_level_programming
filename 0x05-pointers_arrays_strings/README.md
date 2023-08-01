@@ -1,8 +1,6 @@
- C - Pointers, arrays and strings
-
+  - Pointers, arrays and strings
 
 #TASKS
-
 
 0. 98 Battery st.
 
