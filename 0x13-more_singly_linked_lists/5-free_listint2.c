@@ -2,13 +2,13 @@
 
 /**
  * free_listint2 - frees a linked list
- * @head: pointer to the node to be freed
+ * @head: pointer to the listint_t list to be freed
  */
 void free_listint2(listint_t **head)
 {
 	listint_t *temp;
 
-	if (!head)
+	if (head == NULL)
 		return;
 
 	while (*head)
